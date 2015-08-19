@@ -95,5 +95,5 @@ wallpaper    = themedir .. "/images/fallout_capitol.jpg"
 ## License
 
 The rights of the wallpapers belongs to [Bethesda Softworks](http://bethsoft.com/). Thanks to
-[Peter Langhofer](https://twitter.com/EZPete) for helping me with clarifying the copyright.
+[Peter Langhofer](https://www.facebook.com/peter.langhofer) for helping me with clarifying the copyright.
 
